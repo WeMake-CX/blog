@@ -25,6 +25,8 @@ const { Content } = await post.render()
 function getDate(date: string) {
   return new Date(date).toISOString()
 }
+
+export const prerender = true
 ---
 
 <BaseLayout title={title} description={description} pageType="article">

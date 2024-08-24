@@ -23,6 +23,8 @@ const posts = await getPosts(path)
 function activeLink(pathname: string) {
   return Astro.url.pathname.replace(/\/+/g, '/').replace(/\/$/, '') === pathname
 }
+
+export const prerender = true
 ---
 
 <BaseLayout
