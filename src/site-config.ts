@@ -80,16 +80,12 @@ export const siteConfig = {
         href: 'https://wemake.cx',
       },
       {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
+        text: 'Impressum',
+        href: '/imprint',
       },
       {
         text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
+        href: 'https://github.com/WeMake-CX',
       },
     ],
   },
