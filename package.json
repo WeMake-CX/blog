@@ -26,6 +26,8 @@
     "release": "bumpp"
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/cloudflare": "^11.0.4",
     "@astrojs/mdx": "^3.1.2",
     "@astrojs/rss": "^4.0.7",
     "@astrojs/sitemap": "^3.1.6",
@@ -33,10 +35,9 @@
     "@unocss/reset": "^0.61.0",
     "astro": "^4.11.3",
     "nprogress": "^0.2.0",
+    "typescript": "^5.5.4",
     "unocss": "^0.61.0",
-    "vue": "^3.4.31",
-    "@astrojs/check": "^0.9.3",
-    "typescript": "^5.5.4"
+    "vue": "^3.4.31"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.17.0",
