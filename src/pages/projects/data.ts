@@ -2,87 +2,23 @@ import type { ProjectData } from '@/types'
 
 export const projectData: ProjectData = [
   {
-    title: 'Projects Group',
+    title: 'Startups',
     projects: [
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
+        text: '💙 WeMake',
+        description: 'WeMake ist ein zukunftsorientiertes Team, das fortschrittliche Technologien und umfassende Branchenkenntnisse einsetzt, um die digitale Transformation von Unternehmen zu erleichtern.',
         icon: 'i-carbon-campsite',
-        href: '/',
+        href: 'https://wemake.cx',
       },
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
+        text: 'Stealth Startup',
         icon: 'i-carbon-campsite',
         href: '/',
       },
     ],
   },
   {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
-  },
-  {
-    title: 'Project Name',
+    title: 'Projects',
     projects: [],
-  },
-  {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
-  },
-  {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
   },
 ]
