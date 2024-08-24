@@ -1,28 +1,30 @@
-import { defineConfig } from 'astro/config';
-import mdx from '@astrojs/mdx';
-import sitemap from '@astrojs/sitemap';
-import UnoCSS from 'unocss/astro';
-import vue from '@astrojs/vue';
-import cloudflare from "@astrojs/cloudflare";
+import { defineConfig } from 'astro/config'
+import mdx from '@astrojs/mdx'
+import sitemap from '@astrojs/sitemap'
+import UnoCSS from 'unocss/astro'
+import vue from '@astrojs/vue'
+import cloudflare from '@astrojs/cloudflare'
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://astro-theme-vitesse.netlify.app/',
   server: {
-    port: 1977
+    port: 1977,
   },
   integrations: [mdx(), sitemap(), UnoCSS({
-    injectReset: true
+    injectReset: true,
   }), vue()],
   markdown: {
     shikiConfig: {
       themes: {
         light: 'github-light-default',
-        dark: 'github-dark-default'
+        dark: 'github-dark-default',
       },
-      wrap: true
-    }
+      wrap: true,
+    },
   },
-  output: "server",
-  adapter: cloudflare()
-});
+  output: 'server',
+  adapter: cloudflare({
+    imageService: 'cloudflare',
+  }),
+})
