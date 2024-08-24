@@ -1,13 +1,13 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
+  author: 'Florentin Sakwiset',
+  title: 'Florentin\'s Blog',
+  subtitle: 'Alles über Florentin.',
+  description: 'Florentin\'s persönlicher Blog.',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'florentin@wemake.cx',
   socialLinks: [
     {
       text: 'GitHub',
@@ -80,20 +80,8 @@ export const siteConfig = {
   footer: {
     navLinks: [
       {
-        text: 'Posts Props',
-        href: '/posts-props',
-      },
-      {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
+        text: '💙 WeMake',
+        href: 'https://wemake.cx',
       },
     ],
   },
