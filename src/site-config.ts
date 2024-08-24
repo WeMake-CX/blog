@@ -84,8 +84,8 @@ export const siteConfig = {
         href: '/imprint',
       },
       {
-        text: 'GitHub Repository',
-        href: 'https://github.com/WeMake-CX',
+        text: 'Source Code',
+        href: 'https://github.com/WeMake-CX/florentins-blog',
       },
     ],
   },
