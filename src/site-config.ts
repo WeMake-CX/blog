@@ -10,31 +10,27 @@ export const siteConfig = {
   email: 'florentin@wemake.cx',
   socialLinks: [
     {
+      text: 'Instagram',
+      href: 'https://instagram.com/heyflorentin',
+      icon: 'i-simple-icons-instagram',
+      header: 'i-ri-instagram-line',
+    },
+    {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/heyflorentin',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
     {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
+      text: 'Threads',
+      href: 'https://www.threads.net/@heyflorentin',
+      icon: 'i-simple-icons-threads',
+      header: 'i-ri-threads-line',
     },
     {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/heyflorentin/',
       icon: 'i-simple-icons-linkedin',
-    },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
     },
   ],
   header: {
@@ -82,6 +78,18 @@ export const siteConfig = {
       {
         text: '💙 WeMake',
         href: 'https://wemake.cx',
+      },
+      {
+        text: 'Markdown Style',
+        href: '/md-style',
+      },
+      {
+        text: 'View on Astro',
+        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
+      },
+      {
+        text: 'GitHub Repository',
+        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
       },
     ],
   },

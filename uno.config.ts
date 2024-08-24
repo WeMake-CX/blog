@@ -51,6 +51,7 @@ export default defineConfig({
     'i-carbon-campsite',
     'i-simple-icons-github',
     'i-simple-icons-x',
+    'i-simple-icons-threads',
     'i-simple-icons-linkedin',
     'i-simple-icons-instagram',
     'i-simple-icons-youtube',
@@ -59,5 +60,7 @@ export default defineConfig({
     'i-simple-icons-sinaweibo',
     'i-ri-github-line',
     'i-ri-twitter-x-line',
+    'i-ri-instagram-line',
+    'i-ri-threads-line',
   ],
 })
