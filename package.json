@@ -1,0 +1,62 @@
+{
+  "name": "florentins-blog",
+  "type": "module",
+  "version": "1.1.0",
+  "description": "A minimal, SEO-friendly portfolio and blog theme for Astro, supports Vue and UnoCSS.",
+  "author": "Kieran Wong <kieranwong9865@gmail.com> (https://github.com/kieranwong9865/)",
+  "license": "MIT",
+  "keywords": [
+    "kieranwong9865",
+    "astro-theme-vitesse",
+    "astro",
+    "blog",
+    "starter",
+    "template"
+  ],
+  "engines": {
+    "node": ">=v18.17.1 || >=v20.3.0 || >=21"
+  },
+  "scripts": {
+    "prepare": "simple-git-hooks",
+    "dev": "astro dev --host",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "release": "bumpp"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^3.1.2",
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "^3.1.6",
+    "@astrojs/vue": "^4.5.0",
+    "@unocss/reset": "^0.61.0",
+    "astro": "^4.11.3",
+    "nprogress": "^0.2.0",
+    "unocss": "^0.61.0",
+    "vue": "^3.4.31",
+    "@astrojs/check": "^0.9.3",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.17.0",
+    "@iconify/json": "^2.2.204",
+    "@types/lodash-es": "^4.17.12",
+    "@types/nprogress": "^0.2.3",
+    "@vueuse/core": "^10.11.0",
+    "bumpp": "^9.4.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-astro": "^0.31.4",
+    "eslint-plugin-format": "^0.1.2",
+    "lint-staged": "^15.2.7",
+    "lodash-es": "^4.17.21",
+    "prettier-plugin-astro": "^0.13.0",
+    "simple-git-hooks": "^2.11.1"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "lint-staged": {
+    "*": "npm run lint:fix"
+  }
+}
