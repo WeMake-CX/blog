@@ -18,11 +18,11 @@ Mit der Zeit lernst du, dass du all diese Krisen überstehst. Irgendwann, vielle
 
 Diese Erkenntnis führt zu einem tiefen Verständnis:
 
-## Agilität ist wichtiger als Resilienz.
+## Agilität ist wichtiger als Resilienz
 
 Während Resilienz bedeutet, nach einem Rückschlag wieder auf die Beine zu kommen, symbolisiert Agilität die Fähigkeit, sich ständig anzupassen, sich zu bewegen, flexibel zu bleiben und Lösungen zu finden, wo es scheinbar keine gibt. Agilität ist die wahre ✨Magie, die uns durch das Leben führt.
 
-## Das Leben wird magisch, wenn wir wissen, dass wir es schaffen können.
+## Das Leben wird magisch, wenn wir wissen, dass wir es schaffen können
 
 Nicht weil uns jemand zaubern beigebracht hat, sondern weil wir das Vertrauen in unsere eigene Fähigkeit gewonnen haben, Probleme zu lösen. Es ist das Gefühl der Sicherheit, das entsteht, wenn wir wissen, dass wir uns anpassen können, dass wir kreativ genug sind, um Lösungen zu finden, dass wir stark und klug genug sind, um weiterzumachen, egal was passiert.
 
