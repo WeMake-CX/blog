@@ -9,7 +9,7 @@ import cloudflare from '@astrojs/cloudflare'
 export default defineConfig({
   site: 'https://astro-theme-vitesse.netlify.app/',
   server: {
-    port: 1977,
+    port: 1312,
   },
   integrations: [mdx(), sitemap(), UnoCSS({
     injectReset: true,
