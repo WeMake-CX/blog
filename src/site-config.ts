@@ -85,7 +85,7 @@ export const siteConfig = {
       },
       {
         text: 'Source Code',
-        href: 'https://github.com/WeMake-CX/florentins-blog',
+        href: 'https://github.com/WeMake-CX/blog',
       },
     ],
   },
