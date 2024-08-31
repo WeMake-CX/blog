@@ -23,9 +23,12 @@ export default defineConfig({
       wrap: true,
     },
   },
-  output: 'server',
+  output: 'hybrid',
   adapter: cloudflare({
     imageService: 'cloudflare',
+    platformProxy: {
+      enabled: true,
+    },
   }),
   image: { service: passthroughImageService() },
 })
