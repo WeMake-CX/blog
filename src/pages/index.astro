@@ -5,15 +5,18 @@ import siteConfig from '@/site-config'
 
 <BaseLayout description={siteConfig.description}>
   <article class="prose">
-    <h1 class="text-title">Hey, ich bin Florentin 👋</h1>
+    <h1 class="text-title">Hey, 👋</h1>
+    <h2>ich bin Florentin.</h2>
     <p>
       Auf diesem Blog teile ich meine Gedanken, Erfahrungen und Learnings - von
       persönlichen Herausforderungen bis hin zu technologischen Innovationen.
       Ich glaube an die Kraft der Veränderung und daran, dass wir gemeinsam die
       Welt zu einem besseren Ort machen können.
     </p>
+    <p class="flex gap-x-4 gap-y-2 flex-wrap">
+      <a aria-label="Blog" href="/blog" class="prose-link">Zum Blog </a>
+    </p>
     <hr class="hr-line" />
-    <p>Finde mich auf</p>
     <p class="flex gap-x-4 gap-y-2 flex-wrap">
       {
         siteConfig.socialLinks.map((link) => (
@@ -28,14 +31,6 @@ import siteConfig from '@/site-config'
           </a>
         ))
       }
-    </p>
-    <p>
-      Falls Du Fragen hast, schick mir bitte eine E-Mail an
-      <a
-        prose-link
-        aria-label={siteConfig.email}
-        href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a
-      >.
     </p>
   </article>
 </BaseLayout>
