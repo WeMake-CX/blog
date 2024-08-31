@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config'
+import { defineConfig, passthroughImageService } from 'astro/config'
 import mdx from '@astrojs/mdx'
 import sitemap from '@astrojs/sitemap'
 import UnoCSS from 'unocss/astro'
@@ -23,8 +23,12 @@ export default defineConfig({
       wrap: true,
     },
   },
-  output: 'server',
+  output: 'hybrid',
   adapter: cloudflare({
     imageService: 'cloudflare',
+    platformProxy: {
+      enabled: true,
+    },
   }),
+  image: { service: passthroughImageService() },
 })
