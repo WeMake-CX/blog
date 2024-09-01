@@ -76,17 +76,27 @@ function toggleNavDrawer() {
 
 <template>
   <header
-    id="header" :class="{ 'header-bg-blur': scroll > 20 }"
+    id="header"
+    :class="{ 'header-bg-blur': scroll > 20 }"
     class="!fixed bg-transparent z-899 w-screen h-20 px-6 flex justify-between items-center relative"
   >
     <div class="flex items-center h-full">
       <a href="/" mr-6 aria-label="Header Logo Image">
-        <img width="32" height="32" :src="siteConfig.header.logo.src" :alt="siteConfig.header.logo.alt">
+        <img
+          width="32"
+          height="32"
+          :src="siteConfig.header.logo.src"
+          :alt="siteConfig.header.logo.alt"
+        >
       </a>
       <nav class="sm:flex hidden flex-wrap gap-x-6 position-initial flex-row">
         <a
-          v-for="link in navLinks" :key="link.text" :aria-label="`${link.text}`" :target="getLinkTarget(link.href)"
-          nav-link :href="link.href"
+          v-for="link in navLinks"
+          :key="link.text"
+          :aria-label="`${link.text}`"
+          :target="getLinkTarget(link.href)"
+          nav-link
+          :href="link.href"
         >
           {{ link.text }}
         </a>
@@ -97,19 +107,27 @@ function toggleNavDrawer() {
     </div>
     <div class="flex gap-x-6">
       <a
-        v-for="link in socialLinks" :key="link.text" :aria-label="`${link.text}`" :class="link.icon" nav-link
-        :target="getLinkTarget(link.href)" :href="link.href"
+        v-for="link in socialLinks"
+        :key="link.text"
+        :aria-label="`${link.text}`"
+        :class="link.icon"
+        nav-link
+        :target="getLinkTarget(link.href)"
+        :href="link.href"
       />
       <ThemeToggle />
     </div>
   </header>
-  <nav
-    class="nav-drawer sm:hidden"
-  >
+  <nav class="nav-drawer sm:hidden">
     <i i-ri-menu-2-fill />
     <a
-      v-for="link in navLinks" :key="link.text" :aria-label="`${link.text}`" :target="getLinkTarget(link.href)"
-      nav-link :href="link.href" @click="toggleNavDrawer()"
+      v-for="link in navLinks"
+      :key="link.text"
+      :aria-label="`${link.text}`"
+      :target="getLinkTarget(link.href)"
+      nav-link
+      :href="link.href"
+      @click="toggleNavDrawer()"
     >
       {{ link.text }}
     </a>

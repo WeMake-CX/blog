@@ -14,8 +14,21 @@ function toTop() {
 <template>
   <button
     aria-label="Scroll to top"
-    fixed right-5 sm:right-30 bottom-30 w-12 h-12 text-lg hover:op100 rounded-full flex="~ items-center justify-center"
-    bg-hex-8883 transition duration-300 z-100 print:hidden
+    fixed
+    right-5
+    sm:right-30
+    bottom-30
+    w-12
+    h-12
+    text-lg
+    hover:op100
+    rounded-full
+    flex="~ items-center justify-center"
+    bg-hex-8883
+    transition
+    duration-300
+    z-100
+    print:hidden
     :class="scroll > 300 ? 'op75' : 'op0 pointer-events-none'"
     @click="toTop()"
   >

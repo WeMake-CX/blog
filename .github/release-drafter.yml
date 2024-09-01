@@ -1,43 +1,43 @@
-name-template: "v$RESOLVED_VERSION 💙"
-tag-template: "v$RESOLVED_VERSION"
+name-template: v$RESOLVED_VERSION 💙
+tag-template: v$RESOLVED_VERSION
 autolabeler:
-  - label: "chore"
+  - label: chore
     files:
-      - "*.md"
+      - '*.md'
     branch:
       - '/docs{0,1}\/.+/'
-  - label: "bug"
+  - label: bug
     branch:
       - '/fix\/.+/'
     title:
-      - "/fix/i"
-  - label: "enhancement"
+      - /fix/i
+  - label: enhancement
     branch:
       - '/feature\/.+/'
-prerelease-identifier: "alpha"
+prerelease-identifier: alpha
 categories:
-  - title: "Features"
+  - title: Features
     labels:
-      - "feature"
-  - title: "Bug Fixes"
+      - feature
+  - title: Bug Fixes
     labels:
-      - "patch"
-  - title: "Maintenance"
-    label: "chore"
+      - patch
+  - title: Maintenance
+    label: chore
 exclude-labels:
-  - "skip-changelog"
-change-template: "- $TITLE @$AUTHOR (#$NUMBER)"
+  - skip-changelog
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 version-resolver:
   major:
     labels:
-      - "major"
+      - major
   minor:
     labels:
-      - "minor"
+      - minor
   patch:
     labels:
-      - "patch"
+      - patch
   default: patch
 template: |
   ## Changes

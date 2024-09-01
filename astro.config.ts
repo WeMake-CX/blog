@@ -11,9 +11,14 @@ export default defineConfig({
   server: {
     port: 1312,
   },
-  integrations: [mdx(), sitemap(), UnoCSS({
-    injectReset: true,
-  }), vue()],
+  integrations: [
+    mdx(),
+    sitemap(),
+    UnoCSS({
+      injectReset: true,
+    }),
+    vue(),
+  ],
   markdown: {
     shikiConfig: {
       themes: {
