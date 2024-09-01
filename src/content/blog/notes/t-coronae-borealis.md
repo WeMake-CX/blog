@@ -1,19 +1,22 @@
 ---
 title: Ein Stern explodiert – live und in Farbe
-date: 2024-07-14
+description: Erlebe die Explosion von T Coronae Borealis, einem seltenen Ereignis, das mit bloßem Auge sichtbar ist. Lerne mehr über Novae und wie du sie beobachten kannst.
+date: 2024-09-01
+tag: 🪐
+duration: 5 Minuten
 ---
 
-![A red giant star](/images/a-red-giant-star.webp)
-
-*NASA/Goddard Space Flight Center*
+![A red giant star](/images/a-red-giant-star.webp) *NASA/Goddard Space Flight Center*
 
 ***
 
-###### Live 🟢: Derzeit ist keine Nova sichtbar
+###### Derzeit ist keine Nova sichtbar (Echtzeit Update)
 
 ***
 
 Ihr habt's bestimmt schon gehört: In diesem Monat erwartet uns ein krasses Spektakel am Nachthimmel – **T Coronae Borealis**, auch bekannt als "Blaze Star", wird in einer Nova explodieren! Klingt nach Hollywood-Action, oder? Aber keine Sorge, die Erde ist nicht in Gefahr. Das Ganze passiert in sicherer Entfernung von 3.000 Lichtjahren. Trotzdem ist es ein mega seltenes Ereignis, das wir mit bloßem Auge beobachten können – das letzte Mal war 1946, also vor fast 80 Jahren!
+
+***
 
 ## Okay, aber was ist denn eigentlich eine Nova? 🤔
 
@@ -30,6 +33,10 @@ Ja, absolut! T CrB wird während der Nova so hell, dass du ihn mit bloßem Auge 
 Der genaue Zeitpunkt der Explosion ist schwer vorherzusagen, aber Astronomen schätzen, dass es **jederzeit in diesem September** passieren könnte.
 
 T CrB befindet sich im Sternbild Corona Borealis – die "Nördliche Krone" – ein kleines, hufeisenförmiges Sternbild. Um es zu finden, suchst du am besten nach den beiden hellsten Sternen am Nordhimmel: **Arktur und Wega**. Wenn du eine Linie zwischen diesen beiden Sternen ziehst, landest du direkt bei der Nördlichen Krone. T CrB liegt am unteren Rand dieses Hufeisens und wird während der Explosion ungefähr so hell leuchten wie der hellste Stern im Sternbild, Alphekka.
+
+![Corona Borealis](/images/CoronaBorealisCC.jpg) *Till Credner, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*
+
+***
 
 ## Anleitung für Sternengucker in deutschen Städten
 
@@ -59,6 +66,8 @@ Hier sind ein paar Tipps, wie ihr T CrB in eurer Stadt findet:
 * Sucht euch einen Ort mit **wenig Lichtverschmutzung**, z.B. außerhalb der Stadt.
 * Eine **Sternkarte oder eine Astronomie-App** kann euch helfen, die Nördliche Krone und T CrB zu finden.
 
+***
+
 ## FAQ
 
 **1. Ist die Nova gefährlich für uns?**
@@ -77,7 +86,7 @@ Auf der Website der [American Association of Variable Star Observers (AAVSO)](ht
 
 ***
 
-**Quellen:**
+## Quellen
 
 * [Schaefer, B. E. (2023). Journal for the History of Astronomy, 54(4), 436-455.](https://doi.org/10.1177/00218286231200492)
 * [Luna, G. J. M., et al. (2020). The Astrophysical Journal Letters, 902(2), L14.](https://iopscience.iop.org/article/10.3847/2041-8213/abbb2c)
