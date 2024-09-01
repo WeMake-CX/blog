@@ -28,9 +28,9 @@ const blog = defineCollection({
       .string()
       .or(z.date())
       .transform((val: string | number | Date) =>
-        new Date(val).toLocaleDateString('en-US', {
+        new Date(val).toLocaleDateString('de-DE', {
           year: 'numeric',
-          month: 'short',
+          month: 'long',
           day: 'numeric',
         }),
       ),
