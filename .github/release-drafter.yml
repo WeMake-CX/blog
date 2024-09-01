@@ -2,8 +2,6 @@ name-template: v$RESOLVED_VERSION 💙
 tag-template: v$RESOLVED_VERSION
 autolabeler:
   - label: chore
-    files:
-      - '*.md'
     branch:
       - '/docs{0,1}\/.+/'
   - label: bug
@@ -11,7 +9,7 @@ autolabeler:
       - '/fix\/.+/'
     title:
       - /fix/i
-  - label: enhancement
+  - label: feature
     branch:
       - '/feature\/.+/'
 prerelease-identifier: alpha
