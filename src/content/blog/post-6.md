@@ -4,7 +4,7 @@ description: Derzeit liegt mein Fokus auf der Entwicklung nachhaltiger Lösungen
 date: 2024-04-21
 ---
 
-Die Leute fragen mich oft, wie sie mich unterstützen können, *und ich bin unglaublich dankbar für die mentale Ermutigung, die ich bereits von allen erhalten habe.*
+Die Leute fragen mich oft, wie sie mich unterstützen können, _und ich bin unglaublich dankbar für die mentale Ermutigung, die ich bereits von allen erhalten habe._
 
 **Mein größter Kampf im Moment**, ohne Frage, ist es, nachhaltige, skalierbare Lösungen für 💙 WeMake zu liefern und zu monetarisieren, ohne mich zu sehr zu verausgaben. Die technische Seite der Dinge, das ist mein Spielplatz—ich kann innovative digitale Lösungen entwickeln, KI in Unternehmen integrieren und die Grenzen des Möglichen mit Technologie erweitern. Aber diese technischen Errungenschaften in stetige Einnahmequellen zu verwandeln, das ist eine andere Liga.
 

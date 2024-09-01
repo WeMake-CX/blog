@@ -42,11 +42,11 @@ Und schließlich: Nur wer Ziele hat, kann gewinnen. Denn ohne Ziele weiß man ga
 
 ## Inspiration für gute und bedeutende Ziele
 
-- *„Ich möchte die Person sein, die durch kreative Kunstwerke die Gesellschaft inspiriert.“*
-- *„Ich möchte die Person sein, die anderen Menschen bei der Überwindung ihrer Traumata hilft.“*
-- *„Ich möchte die Person sein, die einen positiven Einfluss auf die Umwelt hat, indem sie nachhaltige Lösungen entwickelt.“*
-- *„Ich möchte die Person sein, die den ersten Business Use Case für Quantum Computing entwickelt.“*
-- *„Ich möchte die Person sein, die innovative Bildungsprogramme für benachteiligte Kinder entwickelt.“*
+- _„Ich möchte die Person sein, die durch kreative Kunstwerke die Gesellschaft inspiriert.“_
+- _„Ich möchte die Person sein, die anderen Menschen bei der Überwindung ihrer Traumata hilft.“_
+- _„Ich möchte die Person sein, die einen positiven Einfluss auf die Umwelt hat, indem sie nachhaltige Lösungen entwickelt.“_
+- _„Ich möchte die Person sein, die den ersten Business Use Case für Quantum Computing entwickelt.“_
+- _„Ich möchte die Person sein, die innovative Bildungsprogramme für benachteiligte Kinder entwickelt.“_
 
 Egal, welches Ziel du dir setzt, denk daran, dass sie dich auf deinem Weg begleiten und dich formen werden. Setz dir große, bedeutsame Ziele und beobachte, wie sie dein Leben verwandeln. Nimm die Herausforderungen an, die auf diesem Weg auftreten, denn sie sind die Pinselstriche, die dein Bild vom Leben erst richtig lebendig machen.
 
