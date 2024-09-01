@@ -3,6 +3,7 @@
 }
 .prose a {
   --at-apply: prose-link;
+  text-wrap: wrap;
 }
 .prose strong {
   font-weight: 600;
