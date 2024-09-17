@@ -36,7 +36,7 @@ Hier ein Einblick in meine eigene weirde Löffel-Liste, eine Sammlung von Erfahr
 11. **Einen Baum pflanzen und beim Wachsen zusehen:** Hinterlasse einen positiven Fußabdruck auf dieser Welt. Beobachte, wie etwas, das du selbst gepflanzt hast, wächst und gedeiht.
 12. **Ein Jahr lang Tagebuch führen:** Schreibe jeden Tag auf, wofür du dankbar bist, was du gelernt hast und wie du dich fühlst. Am Ende des Jahres wirst du erstaunt sein, wie weit du gekommen bist.
 
-Diese Aufgaben mögen seltsam erscheinen, und du hast vielleicht deine eigenen Versionen. Der Punkt ist nicht, sie blind zu kopieren, sondern zu finden, was bei dir Anklang findet, was dich aus deiner Komfortzone treibt und dich zwingt, dich wirklich *lebendig* zu fühlen.
+Diese Aufgaben mögen seltsam erscheinen, und du hast vielleicht deine eigenen Versionen. Der Punkt ist nicht, sie blind zu kopieren, sondern zu finden, was bei dir Anklang findet, was dich aus deiner Comfort Zone treibt und dich zwingt, dich wirklich *lebendig* zu fühlen.
 
 Lass deine Seele nicht einen langsamen Tod sterben. Finde deinen Lebenssinn, wie groß oder unkonventionell er auch erscheinen mag. Umarme das Seltsame, das Wilde, das Unbequeme. Denn bei der Verfolgung dessen, was deine Seele entfacht, wirst du die wahrste, erfüllendste Version deiner selbst entdecken.
 
