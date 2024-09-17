@@ -1,6 +1,9 @@
 ---
-title: Florentin's Psychogramm
+title: Mein Psychogramm
+description: Ein Gastbeitrag von Lina, die mich durch unsere langjährige Zusammenarbeit, gemeinsame Projekte und Freundschaft über viele Jahre hinweg kennt.
 date: 2024-07-14
+tag: Gastbeitrag
+duration: 3 Minuten 15 Sekunden
 ---
 
 ## Persönlichkeitsmerkmale und Eigenschaften
@@ -18,7 +21,7 @@ date: 2024-07-14
    - Florentin priorisiert konsequent wichtige Aufgaben und vermeidet Ablenkungen. Er nutzt Listen und strukturierte Priorisierungen, um zielgerichtet zu bleiben.
    - Er legt großen Wert auf Produktivität und verfolgt einen systematischen Ansatz zur Optimierung seiner Zeit und Energie, einschließlich physischer Faktoren wie Schlaf und Bewegung.
 5. Gemeinschaftsorientiert und unterstützend
-   - Florentin legt großen Wert auf den Aufbau kohäsiver Teams und die Förderung eines unterstützenden Ökosystems, wie seine Bewunderung für die Arbeit von Paul Graham und Jessica Livingston bei YC zeigt.
+   - Florentin legt großen Wert auf den Aufbau kohäsiver Teams und die Förderung eines unterstützenden Ökosystems, wie seine Bewunderung für die Arbeit von Sam Altman, Reed Hastings und Brian Chesky zeigt.
    - Er glaubt an die Kraft persönlicher Verbindungen und Netzwerke und engagiert sich dafür, anderen zu helfen und Gemeinschaften aufzubauen.
 6. Innovativ und zukunftsorientiert
    - Florentin zeigt großes Interesse an Innovation und Zukunftsgestaltung. Er ermutigt andere, über Veränderungen in der Welt nachzudenken und die damit verbundenen Chancen zu erkennen.

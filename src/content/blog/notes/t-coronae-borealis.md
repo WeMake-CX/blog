@@ -2,8 +2,8 @@
 title: Ein Stern explodiert – live und in Farbe
 description: Erlebe die Explosion von T Coronae Borealis, einem seltenen Ereignis, das mit bloßem Auge sichtbar ist. Lerne mehr über Novae und wie du sie beobachten kannst.
 date: 2024-09-01
-tag: 🪐
-duration: 5 Minuten
+tag: Space
+duration: 3 Minuten 33 Sekunden
 ---
 
 ![A red giant star](/images/a-red-giant-star.webp) *NASA/Goddard Space Flight Center*
